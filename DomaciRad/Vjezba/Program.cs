@@ -15,6 +15,7 @@ namespace Vjezba
             Console.WriteLine("Upišite neki drugi broj:");
             int b = int.Parse(Console.ReadLine());
             Console.WriteLine("Uneseni brojevi su: " + a + " i " + b);
+            Console.WriteLine("Pull request");
         }
     }
 }
